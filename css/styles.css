@@ -1,0 +1,28 @@
+input[type = "button"]{
+    width: 180px;
+    height: 180px;
+    font-size: 125px;
+    color: rgb(181, 215, 199);
+    background-color: rgb(180, 117, 117);
+}
+
+p {
+    position: fixed;
+    top: 1px;
+    left: 600px;
+    font-size: 120px;
+    font-family: Arial;
+    color: rgb(214, 125, 93);
+}
+
+body {
+    background-color: rgb(235, 224, 224);
+}
+
+td,tr {
+    position: relative;
+}
+
+table {
+    position: relative;
+}
